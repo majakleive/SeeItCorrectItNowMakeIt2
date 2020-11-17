@@ -1,6 +1,17 @@
 /* Tablet */
 
-    
+p {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+} 
+
 .meny {
     background-color: white;
     width: 100%;
@@ -95,7 +106,7 @@
 .header {
     color: black;
     z-index: 9;
-    top: 30%;
+    top: 20%;
     left: 5%;
     width: 70%;
 }
@@ -104,13 +115,13 @@
     font-style: italic;
     font-weight: 300;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 span {
     font-style: normal;
-    font-size: 50px;
+    font-size: 70px;
     background-color: #fff;
     opacity: 0.7;
 }
