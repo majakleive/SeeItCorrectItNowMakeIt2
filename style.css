@@ -168,10 +168,6 @@ span {
 }
 
 
-.select {
-    margin-left: 6%;
-}
-
 .pil {
     position: absolute;
     z-index: 9;
@@ -189,3 +185,14 @@ span {
     letter-spacing: 2px;
     color: #fff;
 }
+
+
+/* Select */
+
+.select {
+    margin-left: 6%;
+    
+}
+
+
+
